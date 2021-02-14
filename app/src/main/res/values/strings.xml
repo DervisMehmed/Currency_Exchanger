@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="reminder">Choose two currency type!</string>
+</resources>
